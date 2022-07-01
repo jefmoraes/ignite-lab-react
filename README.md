@@ -1,4 +1,4 @@
-![Group 7773 (6)](https://user-images.githubusercontent.com/82906124/176972148-48a187fb-0fc7-4a58-b74d-84190110e5ee.png)
+![Group 7773](https://user-images.githubusercontent.com/82906124/176972509-20af0b48-29e9-4015-8fdf-c0ecce519bdc.png)
 
 ## 💻 Projeto
 Aplicativo para lhe ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App que possui autenticação com Discord.
